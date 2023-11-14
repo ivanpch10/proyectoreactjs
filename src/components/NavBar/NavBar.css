@@ -1,0 +1,36 @@
+/* Estilos adicionales según necesidades específicas */
+.bg-body-tertiary {
+    
+  }
+  
+  .logo {
+    max-width: 120px;
+    margin: 0;
+  }
+  
+  .navbar-toggler {
+    border: none; /* Elimina el borde del botón del navbar-toggler */
+    background-color: transparent !important; /* Hace que el fondo sea transparente */
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #8299c3; /* Color del icono del botón del navbar-toggler */
+  }
+  
+  .nav-link {
+    color: #8299c3;
+  }
+  
+  .nav-link:hover {
+    color: #8299c3;
+    text-decoration: underline;
+    transform: scale(1.15);
+    transition: 0.3s ease-in-out;
+  }
+  
+ 
+  
+  /* Border Bottom */
+  .navbar {
+    border-bottom: 10px solid #8299c3;
+  }

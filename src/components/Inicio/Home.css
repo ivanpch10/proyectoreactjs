@@ -1,0 +1,33 @@
+.home{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.home p{
+    font-size: 20px;
+}
+
+.b-home{
+    font-size: 30px;
+    color:  rgba(240, 238, 238, 0.999);
+    background-color:  #8299c3;
+    margin-top: 40px;
+    width: 280px;
+    height: 55px;
+    text-align: center;
+    }
+
+.banner-image {
+    max-width: 50%; /* Garantiza que la imagen no exceda el ancho del contenedor */
+    height: 150px; /* Mantiene la proporción de la imagen */
+    margin-top: 10px; /* Ajusta según sea necesario */
+  }
+  
